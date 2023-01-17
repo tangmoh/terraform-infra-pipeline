@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "mine-keypairs"
+    default = "zee-kp"
 }
 
 # variable "vpc_id" {
